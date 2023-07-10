@@ -1,6 +1,7 @@
 import Head from "next/head"
 import Image from "next/image"
 import { Inter } from "next/font/google"
+import About from "components/About"
 import Navbar from "components/Navbar"
 import Main from "components/Main"
 
@@ -10,10 +11,11 @@ export default function Home() {
   return (
     <div>
       <Head>
-      <title>Kai"lani Woodard</title>
+      <title>Kai'lani Woodard</title>
     </Head>
   <Navbar />
   <Main />
+  <About />
   </div>
   )
 }
