@@ -7,7 +7,7 @@ const About = () => {
         <div className="col-span-2">
           <p className="uppercase text-xl tracking-widest text-[#a0c4f8]">About</p>
           <h2 className="py-4">Who am I?</h2>
-          <p className="py-2">// Add comment here lightly grayed out for flair</p>
+          <p className="py-2">Add comment here lightly grayed out for flair</p>
           <p>Description of who I am introduction.</p>
           <p>Description of who I am second paragraph.</p>
         </div>
