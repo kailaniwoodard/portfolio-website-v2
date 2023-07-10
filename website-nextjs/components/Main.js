@@ -13,12 +13,12 @@ const Main = () => {
             Mission statement goes here
           </p>
           <h1 className="py-4 text-gray-100">
-            I'm <span className="text-[#a0c4f8]">Kai'lani</span>
+            I'm <span className="text-[#a0c4f8]">Kai'lani Woodard</span>,
           </h1>
           <h1 className="py-2 text-gray-100">
-            Recently, a Computer Science Graduate
+            a Recent Computer Science Graduate
           </h1>
-          <p className="py-4 text-gray-200 max-w-[70%] m-auto">
+          <p className="py-4 text-gray-300 max-w-[70%] m-auto">
             This is a description of who I am that I will finetune later.
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
