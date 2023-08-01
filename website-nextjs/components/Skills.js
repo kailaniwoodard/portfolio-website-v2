@@ -20,7 +20,7 @@ const Skills = () => {
                 alt="/"
               />
             </div>
-            <div className="flex flex-col items-center justify-center">
+            <div className="flex flex-col items-center justify-left">
               <h3>Java</h3>
             </div>
           </div>
